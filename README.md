@@ -42,9 +42,11 @@ It contains the following scripts:
  
  
 
-Please if you use the code, reference our work (will be updated):
+Please if you use the code, reference our work:
  
 Saiz, F.A. , Serrano, I., Barandiran. I., Sanchez, J.R. A robust and fast deep learning-based method
-for defect classification in steel surfaces. IEE-IS18. pp. XX-XX (2018)
+for defect classification in steel surfaces. IEE-IS18. pp. 455-460 (2018)
+
+https://ieeexplore.ieee.org/abstract/document/8710501
  
  
